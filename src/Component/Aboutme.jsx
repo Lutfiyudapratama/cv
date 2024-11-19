@@ -22,10 +22,11 @@ const AboutMe = () => {
                 />
                 <h2 className="mb-3 text-md font-sm text-gray-900 dark">Halo, saya lutfi yuda pratama. 
                     Saya seorang siswa di SMK PRAKARYA NTERNASIONAL yang berjurusan Pengembangan perangkat lunak dan gim.
-                    Saya memiliki bakat UI/UX,Html,css,php,react,javascript </h2>
+                    </h2>
+                    <h2>Saya memiliki bakat UI/UX,Html,css,php,react,javascript,saya memiliki ketertarikan sebagai UI/UX designer web.</h2>
             </center>
             <div>
-                <div className="flex space x-4">
+                <div className="flex justify-between space x-4">
                     <img src={html} alt="Logo" className="rounded-full h-20 w-20"/>
                     <img src={css} alt="Logo" className="rounded-full h-20 w-20"/>
                     <img src={react} alt="Logo" className="rounded-full h-20 w-20"/>

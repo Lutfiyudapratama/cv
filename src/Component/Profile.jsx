@@ -27,6 +27,8 @@ const Profile = () => {
                     <h5>Email: Lutfiyudapratama125@gmail.com</h5>
                     <h5>Github: -</h5>
                     <h5>LinkedIn: -</h5>
+                    <h5>Instagram: https://www.instagram.com/fiiiiiiilfi</h5>
+                    <h5>LinkedIn: -</h5>
                 </div>
             </div>
         </Card>

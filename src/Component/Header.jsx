@@ -30,7 +30,7 @@ export function Header() {
       <Navbar.Toggle />
     </div>
     <Navbar.Collapse>
-      <Navbar.Link href="#" active>
+      <Navbar.Link href="/Aboutme" active>
         Home
       </Navbar.Link>
       <Navbar.Link href="#">About</Navbar.Link>
