@@ -6,8 +6,8 @@ export function Header() {
   return (
     <Navbar fluid rounded>
     <Navbar.Brand href="https://flowbite-react.com">
-      <img src="" className="mr-3 h-6 sm:h-9" alt="" />
-      <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">curiculum viate</span>
+      <img src="../assets/images" className="mr-3 h-6 sm:h-9" alt="" />
+      <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white"></span>
     </Navbar.Brand>
     <div className="flex md:order-2">
       <Dropdown
