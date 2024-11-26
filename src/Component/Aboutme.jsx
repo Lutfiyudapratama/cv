@@ -34,6 +34,11 @@ const AboutMe = () => {
                     <img src={php} alt="Logo" className="rounded-full h-20 w-20"/>
 
                 </div>
+                <center>
+                <h2 className="mb-3 text-md font-sm text-gray-900 dark">
+                    <b>Berikut adalah beberapa project yang saya kerjakan</b>
+                </h2>
+                </center>
             </div>
         </div>
     )

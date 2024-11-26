@@ -23,12 +23,15 @@ const Profile = () => {
                     </ul>
                 </div>
                 <div className="column py-4 sm:text-center md:text-left">
-                    <h4 className="mb-1 text-xl font-medium text-gray-900 dark:text-white">Phone: +62 888-0234-7761</h4>
-                    <h5>Email: Lutfiyudapratama125@gmail.com</h5>
-                    <h5>Github: -</h5>
-                    <h5>LinkedIn: -</h5>
-                    <h5>Instagram: https://www.instagram.com/fiiiiiiilfi</h5>
-                    <h5>LinkedIn: -</h5>
+                    <div className="max-w-sm w-full sm:w-1/2 lg:w-1/3 p-2">
+
+                        <h4 className="mb-1 text-xl font-medium text-gray-900 dark:text-white">Phone: +62 888-0234-7761</h4>
+                        <h5>Email: Lutfiyudapratama125@gmail.com</h5>
+                        <h5>Github: https://github.com/Lutfiyudapratama</h5>
+                        <h5>LinkedIn: -</h5>
+                        <h5>Instagram: https://www.instagram.com/fiiiiiiilfi</h5>
+                        <h5>LinkedIn: -</h5>
+                    </div>
                 </div>
             </div>
         </Card>
